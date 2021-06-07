@@ -23,7 +23,7 @@ mega = Mega()
 
 
 '''Some permanent Variables defined'''
-dev = (1116098563) #AJTimePyro
+dev = (1872633516) #AJTimePyro
 common_text = "\n\n<u>If you facing any problem, so report at@Yeageristbotsdev</u>"
 start1 = "<i>To login your account send login detail in this format email,password.</i>\n"
 start_msg = f"<b>I am a Bot.</b>\n\n{start1}\nWe will store your login detail so that you don't have to login everytime you use. So provide your temporary account for your security.{common_text}"
